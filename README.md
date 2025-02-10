@@ -1,6 +1,6 @@
 ![](https://img.shields.io/maven-central/v/io.github.pandalxb/jSensors.svg)
 ![](https://img.shields.io/github/license/pandalxb/jSensors.svg)
-![](https://travis-ci.org/pandalxb/jSensors.svg)
+![](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
 # jSensors
 
@@ -94,7 +94,7 @@ Same for other hardware components as GPU or Disks.
 
 ### Use as a standalone application ###
 
-First of all, download the JAR file containing all dependencies: https://github.com/pandalxb/pandalxb.github.io/raw/master/files/jSensors-2.2-jar-with-dependencies.jar
+First of all, download the JAR file containing all dependencies: https://repo1.maven.org/maven2/io/github/pandalxb/jSensors/1.0.0/jSensors-1.0.0-jar-with-dependencies.jar
 
 Execute jSensors and get all sensors data: 
 
