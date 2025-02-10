@@ -111,10 +111,6 @@ It is also possible to show a simple gui with all the sensors data:
     java -jar jsensors-1.0.0-jar-with-dependencies.jar --gui
 ```
 
-Result:
-
-![jSensorsGUI](https://raw.githubusercontent.com/pandalxb/pandalxb.github.io/master/files/jsensors-gui.png)
-
 ## Configuring jSensors ##
 
 In order to change jSensors configuration you can either:
