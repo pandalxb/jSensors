@@ -8,6 +8,8 @@ Respect to the author profesorfalken, pull from https://github.com/profesorfalke
 
 Monitorize all the hardware sensors of your PC using Java
 
+The supported .NET Framework versions range from 2.0 (the minimum) to 4.7.2 and above
+
 #### Windows Example Output ####
 
     Scanning sensors data...
