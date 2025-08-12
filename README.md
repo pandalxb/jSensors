@@ -51,7 +51,7 @@ To install jSensors for Maven you have just to add to your pom.xml:
      <dependency>
           <groupId>io.github.pandalxb</groupId>
           <artifactId>jSensors</artifactId>
-          <version>1.0.0</version>
+          <version>1.0.1</version>
      </dependency>
 
 
@@ -94,12 +94,12 @@ Same for other hardware components as GPU or Disks.
 
 ### Use as a standalone application ###
 
-First of all, download the JAR file containing all dependencies: https://repo1.maven.org/maven2/io/github/pandalxb/jSensors/1.0.0/jSensors-1.0.0-jar-with-dependencies.jar
+First of all, download the JAR file containing all dependencies: https://repo1.maven.org/maven2/io/github/pandalxb/jSensors/1.0.1/jSensors-1.0.1-jar-with-dependencies.jar
 
 Execute jSensors and get all sensors data: 
 
 ```
-    java -jar jsensors-1.0.0-jar-with-dependencies.jar
+    java -jar jsensors-1.0.1-jar-with-dependencies.jar
 ```
 
 This will generate a console output. 
@@ -108,7 +108,7 @@ This will generate a console output.
 It is also possible to show a simple gui with all the sensors data:
 
 ```
-    java -jar jsensors-1.0.0-jar-with-dependencies.jar --gui
+    java -jar jsensors-1.0.1-jar-with-dependencies.jar --gui
 ```
 
 ## Configuring jSensors ##
